@@ -1,7 +1,6 @@
-<table>
-<tr>
-<td style="width:25%">
-
+<a href="ifeellikeimguccimanein2006">
+  <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right" height="240px" style="vertical-align:middle">
+</a>
 
 ```markdown
 # GAME LOADING... ⏳
@@ -24,16 +23,3 @@
     ["Grow as a leader"]
     ["Run code and squash bugs"]
 ```
-
-
-
-</td>
-<td style="vertical-align:middle" style="width:75%">
-
-<a href="ifeellikeimguccimanein2006">
-  <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right" width="360px" height="255.75px">
-</a>
-
-</td>
-</tr>
-</table>
