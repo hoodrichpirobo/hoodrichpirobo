@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50px">
+<td style="width:25%">
 
 
 ```markdown
@@ -28,7 +28,7 @@
 
 
 </td>
-<td style="vertical-align:middle">
+<td style="vertical-align:middle" style="width:75%">
 
 <a href="ifeellikeimguccimanein2006">
   <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right" width="360px" height="255.75px">
