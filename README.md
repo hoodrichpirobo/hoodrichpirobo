@@ -1,5 +1,5 @@
 <a href="ifeellikeimguccimanein2006">
-  <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right" height="180px">
+  <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right" height="210px">
 </a>
 
 ```markdown
@@ -23,9 +23,3 @@
     ["Grow as a leader"]
     ["Run code and squash bugs"]
 ```
-## ABOUT ME 🕹️🎮👾
-I was thrown into the ring early, starting MMA fighting at 6. Now, I'm taking the discipline and determination from the octagon to the realm of code as a CS & Engineering student at UPV, Valencia. I believe in the power of technology to make a difference and create tools to support underprivileged communities.
-## CURRENT MISSION 🚀
-I stay looking to Always $trive And Prosper on competitive programming, mathematics, and value-driven initiatives. When I'm not coding, I'm organizing and directing competitions, workshops, and other events at the faculty of computer science. I'm always on the lookout for a player two to collaborate on these quests!
-## GAME OVER ⚠️
-Respawn in 3... 2... 1... Back to coding!
