@@ -1,5 +1,5 @@
 <a href="ifeellikeimguccimanein2006">
-  <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right:center" height="240px">
+  <img src="https://thumbs.gfycat.com/ConsciousLongAfricanharrierhawk-size_restricted.gif" alt="gucci" align="right" height="240px">
 </a>
 
 ```markdown
