@@ -16,3 +16,6 @@
     ["Create socially impactful projects"]
     ["Run code and squash bugs"]
 ```
+https://github-readme-stats.vercel.app/api/top-langs/?username=hoodrichpirobo&layout=compact
+
+https://github-readme-stats.vercel.app/api?username=hoodrichpirobo&show_icons=true&theme=dark#gh-dark-mode-only
