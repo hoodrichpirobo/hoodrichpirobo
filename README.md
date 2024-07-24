@@ -16,8 +16,13 @@
     ["Create socially impactful projects"]
     ["Run code and squash bugs"]
 ```
-</br></br>
-![](https://github-readme-stats.vercel.app/api?username=hoodrichpirobo&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoodrichpirobo&layout=compact)
 
----
+<br><br><br>
+<p align="center">
+	<a href="https://github.com/hoodrichpirobo">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoodrichpirobo" />
+	</a> &nbsp;
+	<a href="https://github.com/hoodrichpirobo">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoodrichpirobo&layout=compact&langs_count=8&card_width=320" />
+	</a>
+</p>
