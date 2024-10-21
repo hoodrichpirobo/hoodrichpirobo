@@ -8,7 +8,7 @@
     
 # 💬 Languages:                                                                                    
     > FLUENT: ["Spanish", "English", "Portuguese", "Java"]
-    > LEARNING: ["C++", "Mathematics"]    
+    > LEARNING: ["Python", "Mathematics"]    
     
 # 🌎Goals:
     ["Create socially impactful projects"]
