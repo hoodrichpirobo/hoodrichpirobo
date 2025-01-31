@@ -17,9 +17,9 @@
 <br><br><br>
 <p align="center">
 	<a href="https://github.com/hoodrichpirobo">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoodrichpirobo" />
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoodrichpirobo&theme=aura" />
 	</a>
 	<a href="https://github.com/hoodrichpirobo">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoodrichpirobo&layout=compact&langs_count=8&card_width=320" />
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoodrichpirobo&layout=compact&langs_count=8&card_width=320&theme=aura" />
 	</a>
 </p>
