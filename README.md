@@ -3,7 +3,7 @@
 ```bash
 # 👹🖤 Cux Prada: 
     > ORIGIN: "Born in crazy Colombian mountains, raised in Spain"
-    > CLASS: "Computer Science and Engineering student at UPV"
+    > CLASS: "Computer Science & Engineering student at UPV"
     > SPECIAL ABILITY: ["Former mixed martial arts champion"]
     
 # 💬 Languages:                                                                                    
@@ -11,7 +11,7 @@
     > LEARNING: ["Python", "Mathematics"]    
     
 # 🌎Goals:
-    ["Create socially impactful projects"]
+    ["Create impactful projects"]
     ["Run code and squash bugs"]
 ```
 <br><br><br>
